@@ -2,6 +2,10 @@
 
 Welcome! This project is a **Pure Pursuit Path Following Algorithm** simulation written in **Processing (Python Mode)**. It lets you draw a path, control a follower object, and watch as the follower tracks the path using a lookahead-based approach. Below, you'll find everything you need to set up, run the program, and interact with it.
 
+Here is a demo of the project:
+
+https://github.com/user-attachments/assets/6fd0d321-fb0b-4aa7-91c0-1ae5027116a4
+
 ---
 
 ## **How to Set Up the Project**
