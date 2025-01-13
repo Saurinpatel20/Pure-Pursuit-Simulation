@@ -2,6 +2,8 @@
 
 Welcome! This project is a **Pure Pursuit Path Following Algorithm** simulation written in **Processing (Python Mode)**. It lets you draw a path, control a follower object, and watch as the follower tracks the path using a lookahead-based approach. Below, you'll find everything you need to set up, run the program, and interact with it.
 
+Credit to https://github.com/xiaoxiae/PurePursuitAlgorithm for inspiration on path-following algorithms. Converted this algorithm to the Vex V5 system in C++ utilizing a localized view of the robot in a field. This simulation was created for learning the actual algorithm.
+
 Here is a demo of the project:
 
 https://github.com/user-attachments/assets/6fd0d321-fb0b-4aa7-91c0-1ae5027116a4
